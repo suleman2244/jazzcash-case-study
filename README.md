@@ -44,17 +44,16 @@ UI (Native Android / iOS) → Auth Module (OAuth2 / JWT) → API Gateway → Mic
 
 > Screenshots are sourced from publicly-available assets (Play Store) or redacted mockups. Files are stored in `/screenshots`.
 
+<p align="center">
+  <img src="screenshots/image2.png" width="200" />
+  <img src="screenshots/image3.png" width="200" />
+  <img src="screenshots/image4.png" width="200" />
+  <img src="screenshots/image5.png" width="200" />
+  <img src="screenshots/image6.png" width="200" />
+  <img src="screenshots/image7.png" width="200" />
+  <img src="screenshots/image8.png" width="200" />
+</p>
 
-|---|---|---|
-| <img src="screenshots/image2.png" width="300"/> | <img src="screenshots/image3.png" width="300"/> | <img src="screenshots/image4.png" width="300"/> |
-
-
-|---|---|---|
-| <img src="screenshots/image5.WEBP" width="300"/> | <img src="screenshots/image6.png" width="300"/> | <img src="screenshots/image7.png" width="300"/> |
-
-| Settings / Profile | Additional Screens |
-|---|---|
-| <img src="screenshots/image8.WEBP" width="300"/> | (See other images in `/screenshots`) |
 
 ---
 
