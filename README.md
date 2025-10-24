@@ -3,7 +3,7 @@ Case study: JazzCash native mobile app — Android (Java/Kotlin) &amp; iOS (Swif
 <h2 align="center">💸 JazzCash Mobile — Case Study (Android & iOS)</h2>
 
 <p align="center">
-  <img src="screenshots/image1.WEBP" alt="JazzCash Banner" width="80%" />
+  <img src="screenshots/bannerimage.png" alt="JazzCash Banner" width="80%" />
 </p>
 
 ---
@@ -44,13 +44,13 @@ UI (Native Android / iOS) → Auth Module (OAuth2 / JWT) → API Gateway → Mic
 
 > Screenshots are sourced from publicly-available assets (Play Store) or redacted mockups. Files are stored in `/screenshots`.
 
-| Login / Onboarding | Home / Dashboard | Payments |
-|---|---|---|
-| <img src="screenshots/image2.WEBP" width="300"/> | <img src="screenshots/image3.WEBP" width="300"/> | <img src="screenshots/image4.WEBP" width="300"/> |
 
-| Transfers | Bill Payment | Transaction History |
 |---|---|---|
-| <img src="screenshots/image5.WEBP" width="300"/> | <img src="screenshots/image6.WEBP" width="300"/> | <img src="screenshots/image7.WEBP" width="300"/> |
+| <img src="screenshots/image2.png" width="300"/> | <img src="screenshots/image3.png" width="300"/> | <img src="screenshots/image4.png" width="300"/> |
+
+
+|---|---|---|
+| <img src="screenshots/image5.WEBP" width="300"/> | <img src="screenshots/image6.png" width="300"/> | <img src="screenshots/image7.png" width="300"/> |
 
 | Settings / Profile | Additional Screens |
 |---|---|
